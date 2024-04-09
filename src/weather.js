@@ -29,7 +29,7 @@ function Weather() {
   };
 
   return (
-    <div>
+    <div className="Container>
       <h1>Weather App</h1>
       <form onSubmit={handleSubmit}>
         <input
